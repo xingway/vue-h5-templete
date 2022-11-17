@@ -1,0 +1,145 @@
+.flex{
+    display: flex;
+}
+.flex-row{
+    flex-direction: row;
+}
+.flex-column{
+    flex-direction: column;
+}
+.align-items-center{
+    align-items: center;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-space-start{
+    justify-content: start !important;
+}
+.justify-content-space-around{
+    justify-content: space-around;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.justify-content-space-evenly{
+    justify-content: space-evenly;
+}
+.w100-p{
+    width: 100%;
+}
+.h100-p{
+    height: 100%;
+}
+.h100{
+    height: 100vh;
+}
+.flex-1{
+    flex: 1;
+}
+.bgw{
+    background: #fff;
+    background-color: #fff;
+}
+.bgBlue{
+    background: #1976d2;
+}
+.bgGreen{
+    background: #388e3c;
+}
+.base-blue{
+    color: #1976d2;
+}
+.tx-loading{
+    color: #EFA517;
+}
+.tx-success{
+    color: #2BBC28;
+}
+.tx-fail{
+    color: #F30D0D;
+}
+.tx-left{
+    text-align: left;
+}
+.tx-center{
+    text-align: center;
+}
+.tx-right{
+    text-align: right;
+}
+.color999{
+    color: #999;
+}
+.clolr6600{
+    color: #FF6600;
+}
+.w50{
+    display: inline-block;
+    width: 45%;
+    font-size: 46px;
+    color: #999;
+}
+.d-flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-space-between{
+    justify-content: space-between;
+}
+.align-center{
+     align-items: center;
+}
+.font-12{
+    font-size: 12px;
+}
+.font-14{
+    font-size: 14px;
+}
+.font-16{
+    font-size: 16px;
+}
+.pd-l-10{
+    padding-left: 10px;
+}
+.pd-t-10{
+    padding-top: 10px;
+}
+.pd-b-10{
+    padding-bottom: 10px;
+}
+.pd5{
+    padding: 5px;
+}
+.pd10{
+    padding: 10px;
+}
+.pd-y-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mg-t-10{
+    margin-top: 10px;
+}
+.mg-b-5{
+    margin-bottom: 5px;
+}
+.mg-b-10{
+    margin-bottom: 10px;
+}
+.mg-b-20{
+    margin-bottom: 20px;
+}
+
+.mg-x-5{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.mg-t-20{
+    margin-top: 20px;
+}
+.mg-b-200{
+    margin-bottom: 200px;
+}
